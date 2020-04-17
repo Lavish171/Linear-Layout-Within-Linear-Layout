@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrueCitiizenQuiz App</string>
+    <string name="title">The US independence was declared in the 1947</string>
+    <string name="button_text">Hello</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+</resources>
